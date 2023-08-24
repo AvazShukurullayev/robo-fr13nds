@@ -1,4 +1,5 @@
-import {Header, Main, Footer} from "./layout"
+import {Header, Main, Footer} from "../../layout"
+import "./App.css"
 
 const App = () => {
     return (
